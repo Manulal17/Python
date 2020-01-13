@@ -38,8 +38,8 @@ for folder in listdir:
         print("Error while removing old Logs")
 
 # Uploading to S3
-AWS_ACCESS_KEY_ID = 'AKIAJKGV4WO5G4J5I5PA'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '*********************'
+AWS_SECRET_ACCESS_KEY = '*****************************'
 Bucket_name = 'testing-script'
 #AWS_S3_REGION_NAME = 'us-east-2'
 #AWS_S3_SIGNATURE_VERSION = 's3v4'
